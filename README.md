@@ -1,4 +1,4 @@
-# Lab6
+# Drawing interface
 
 I solved the following tassks using jawa awt : 
 
